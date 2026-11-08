@@ -1,0 +1,56 @@
+{
+  "repository": "https://github.com/SecondState-ai/finance-agents-benchmark",
+  "revision": "85d5a65587ac3cb1b1ca8f34af688c82c656a49c",
+  "license": "CC BY 4.0",
+  "fictional": true,
+  "files": [
+    {
+      "path": "01 Financial/Earnings_schedule.xlsx",
+      "url": "https://raw.githubusercontent.com/SecondState-ai/finance-agents-benchmark/85d5a65587ac3cb1b1ca8f34af688c82c656a49c/tasks/meridian/data-room/01%20Financial/Earnings_schedule.xlsx",
+      "sha256": "85b42cf7b9e63eccbeb6dd47288e671fe71ed6cfdb98addb22032024bff6e4a6",
+      "bytes": 6126
+    },
+    {
+      "path": "01 Financial/Management_accounts_2025-12.xlsx",
+      "url": "https://raw.githubusercontent.com/SecondState-ai/finance-agents-benchmark/85d5a65587ac3cb1b1ca8f34af688c82c656a49c/tasks/meridian/data-room/01%20Financial/Management_accounts_2025-12.xlsx",
+      "sha256": "359ae22d7e81ab5960d20425f4b2d5c3bf147007cabb42aa74077e9dc07408b7",
+      "bytes": 9766
+    },
+    {
+      "path": "03 Operations/Payroll_summary_2024.xlsx",
+      "url": "https://raw.githubusercontent.com/SecondState-ai/finance-agents-benchmark/85d5a65587ac3cb1b1ca8f34af688c82c656a49c/tasks/meridian/data-room/03%20Operations/Payroll_summary_2024.xlsx",
+      "sha256": "864f6089807d6d547759541abfe57d60352099f8ea473b30a119eab598de5f9e",
+      "bytes": 8103
+    },
+    {
+      "path": "03 Operations/Payroll_summary_2025.xlsx",
+      "url": "https://raw.githubusercontent.com/SecondState-ai/finance-agents-benchmark/85d5a65587ac3cb1b1ca8f34af688c82c656a49c/tasks/meridian/data-room/03%20Operations/Payroll_summary_2025.xlsx",
+      "sha256": "9290276b6918f47d5f18a1240fa856679a8d6d867565ca63e8751b866da2606d",
+      "bytes": 8103
+    },
+    {
+      "path": "03 Operations/Personnel_movements.xlsx",
+      "url": "https://raw.githubusercontent.com/SecondState-ai/finance-agents-benchmark/85d5a65587ac3cb1b1ca8f34af688c82c656a49c/tasks/meridian/data-room/03%20Operations/Personnel_movements.xlsx",
+      "sha256": "24395f7958e8d86337acecb9e42439be5a230313ccdb15b1e00a691332c6560a",
+      "bytes": 5981
+    },
+    {
+      "path": "03 Operations/Northstar_project_statement.pdf",
+      "url": "https://raw.githubusercontent.com/SecondState-ai/finance-agents-benchmark/85d5a65587ac3cb1b1ca8f34af688c82c656a49c/tasks/meridian/data-room/03%20Operations/Northstar_project_statement.pdf",
+      "sha256": "1054e5b392aaec7781614920c2389394f68ad5535840680bd722f70aa641e750",
+      "bytes": 4303
+    },
+    {
+      "path": "04 Legal/Executive_terms.docx",
+      "url": "https://raw.githubusercontent.com/SecondState-ai/finance-agents-benchmark/85d5a65587ac3cb1b1ca8f34af688c82c656a49c/tasks/meridian/data-room/04%20Legal/Executive_terms.docx",
+      "sha256": "92993e5705623fbd625a6a89a68dd609d09c90bc262bfbc1b6f8a7040d1dea09",
+      "bytes": 36332
+    },
+    {
+      "path": "05 Management/Board_minutes_2025-12.docx",
+      "url": "https://raw.githubusercontent.com/SecondState-ai/finance-agents-benchmark/85d5a65587ac3cb1b1ca8f34af688c82c656a49c/tasks/meridian/data-room/05%20Management/Board_minutes_2025-12.docx",
+      "sha256": "52bc114d046d562df7772178a7489d9206ba9e5600f306af2661e1ca12d92016",
+      "bytes": 35679
+    }
+  ]
+}
